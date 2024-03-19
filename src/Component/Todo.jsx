@@ -37,7 +37,8 @@ const Todo = () => {
             time:currentDate.toDateString() + ", " + timeString
         }])
         setTitle('');
-        setDesc('');;
+        setDesc('');
+        setToggle(true);
     }
 
     const handleDelete = (id) => {

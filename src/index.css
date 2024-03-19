@@ -41,7 +41,7 @@ body{
 
 .showItem
 {
-  min-height: 19rem;
+  min-height: 25rem;
   display: flex;
   flex-direction: row;
   align-items: center;
